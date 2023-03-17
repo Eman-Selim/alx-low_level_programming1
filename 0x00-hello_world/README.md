@@ -1,17 +1,5 @@
-[ALX C Programming project]![image](https://user-images.githubusercontent.com/105258746/189208480-2fccc610-22af-4ed9-8928-2ebf0e99b002.png)
-
-# C PROGRAMMING `0x00. C - Hello, World`
-
-### Note: When doing this project, After using text editor of your choice to create and access the file on insert mode.Ensure the first line is always having `#!/bin/bash`, then the second line is having the correct command/answer.
-(From your terminal, convert the file created to `SCRIPT` i.e: chmod u+x filename)
 
 
-
-This project is the first C project as part of the alx_africa curriculum, and covers the very basics of compilation and C.
-
-## 0. Write a script that runs a C file through the preprocessor and save the result into another file.
-* File> 0-preprocessor: is a script that runs a C file through the preprocessor and save the result into another file.
-### input: `gcc -E $CFILE -o c`
 
 ## 1. Write a script that compiles a C file but does not link.
 * File> 1-compiler: is a script that compiles a C file but does not link.
